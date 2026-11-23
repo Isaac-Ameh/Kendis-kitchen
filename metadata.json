@@ -1,0 +1,6 @@
+{
+  "name": "Kendi's Kitchen",
+  "description": "Kendi's Kitchen — Delicious meals and home delivery at 21st Street, Shops A1 & A2, BIU Complex, Opposite UNIBEN Main Gate, BDPA, Benin City, Edo State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
